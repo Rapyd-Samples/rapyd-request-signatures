@@ -17,4 +17,5 @@ When you send a request, you calculate the signature and insert the result into 
 * Make your first API Call with Rapyd Payments documentation:
 https://docs.rapyd.net/build-with-rapyd/docs/make-your-first-api-call
 * Join the Rapyd Community:
-https://community.rapyd.net 
+https://community.rapyd.net
+* [Articles](https://community.rapyd.net/tag/request-signature)
